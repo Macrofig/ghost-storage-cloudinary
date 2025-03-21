@@ -1878,7 +1878,7 @@ get-stream@^5.1.0:
   dependencies:
     pump "^3.0.0"
 
-ghost-storage-base@^1.0.0:
+ghost-storage-base@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/ghost-storage-base/-/ghost-storage-base-1.0.0.tgz#931289d310ad59fc80e2be01a81235cc3a76e75a"
   integrity sha512-qIW6pny/wWKjrbRmXVNis9i7856AMR5/NZmnLTrKbA0KIEnA9K/fhkj7ISnSyTYfBv17sFsC23eJfvj6dDgZrQ==
