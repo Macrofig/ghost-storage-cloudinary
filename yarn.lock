@@ -2547,12 +2547,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ghost-storage-base@npm:^1.1.1":
-  version: 1.1.1
-  resolution: "ghost-storage-base@npm:1.1.1"
+"ghost-storage-base@npm:1.0.0":
+  version: 1.0.0
+  resolution: "ghost-storage-base@npm:1.0.0"
   dependencies:
     moment: "npm:2.27.0"
-  checksum: 10c0/02f74a22e2f0837e34649fd2d7d2f78283c44c334a5ff31cdcbdfe6d3110af7af628c956740add6c077e2cc6fd8a97fcd62f5b66f0500b7480ca3f0c4a4cac0e
+  checksum: 10c0/651eebde5b659d338d28b69a7fb6ec28ef6fbd62b16dc1657267ef2331acd45bd691d0eaeff226ee05416248170a549b77118ab977cb242b694a403659a13b52
   languageName: node
   linkType: hard
 
@@ -2567,7 +2567,7 @@ __metadata:
     cloudinary: "npm:^2.6.0"
     eslint: "npm:^8.19.0"
     eslint-plugin-mocha: "npm:^10.0.5"
-    ghost-storage-base: "npm:^1.1.1"
+    ghost-storage-base: "npm:1.0.0"
     got: "npm:^11.0"
     image-size: "npm:^1.0.1"
     lodash: "npm:^4.17.20"
